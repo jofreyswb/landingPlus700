@@ -1,0 +1,411 @@
+/*
+Theme Name: landingPlus700
+Description: landingPlus700
+Author: website3D.ru
+Version: 1.0
+*/
+  html {
+ position:relative;
+ min-height:100%;
+}
+ html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+     width: 100%;
+     background: #11174e;
+     color:#FFFFFF;
+     //font-family: 'Open Sans Condensed', sans-serif;
+     font-family: Tahoma, Geneva, sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.site_wrapper{
+ padding-bottom: 400px;
+  height: 100%;
+
+}
+/* begin heade */
+#header{
+background: #265fb0 none repeat scroll 0 0;
+height: 157px;
+margin-top: -10px;
+}
+
+/*end header*/
+/*begin ContetPOst*/
+ .ContetPOst{
+   width: 100%;
+
+ }
+ .titleOfPosts,.titleOfPostss,.titleOfPostsss,.titleOfPostsc{
+   text-align: center;
+   font-size: 54px;
+ }
+
+  .titleOfPostsc {
+  margin-top: -60px;
+}
+ .inContetPOst{
+ //  max-width: 1050px;
+   min-width: 400px;
+   width: 100%;
+   margin: 30px auto;
+   height: auto;
+    }
+
+ .theFirstBlokBG {
+ // background: #fff url(http://plus700.com/wp-content/themes/landingPlus700/img/metalJandybg.jpg) no-repeat fixed;
+ background: #fff url(http://plus700.com/wp-content/themes/landingPlus700/img/bg/rest2.jpg) no-repeat fixed center center ;
+//  background: #fff url(http://prestigekursk.ru/rgell/image/image_132.jpg) no-repeat center center fixed ;
+  height: 120%;
+  margin-bottom: -30px;
+  margin-top: -30px;
+  padding-bottom: 60px;
+  padding-top: 27px;
+
+  text-shadow: 1px 1px 0px #8D2125;
+ //text-shadow: 2px 2px 0px #fff,-2px -2px 0px #fff,2px -2px 0px #fff,-2px 2px 0px #fff;
+}
+ .forZerro {
+color: #fb5a60;
+display: block;
+height: 157px;
+margin: 0 auto;
+max-width: 900px;
+min-width: 350px;
+min-height: 100px;
+max-height: 300px;
+height: 100%;
+}
+.forMonth{
+color: #fb5a60;
+display: block;
+font-size: 44px;
+//padding-left: 50px;
+padding-top: 78px;
+text-shadow: 2px 2px 0px #8D2125 !important;
+}
+
+.zero {
+float: right;
+font-size: 160px;
+font-weight: 900;
+margin: -63px 50px auto;
+padding: 0;
+}
+.uah {
+  float: right;
+  font-size: 50px;
+  margin-top: 100px;
+}
+.textBotoomPlitka {
+color: #fb5a60;
+display: block;
+font-size: 30px;
+margin: 17px auto;
+max-width: 900px;
+min-width: 300px;
+text-align: justify;
+width: 100%;
+
+}
+.forMonth > b {
+  font-size: 90px;
+}
+.ourPrice {
+font-size: 44px;
+padding-bottom: 30px;
+text-align: center;
+font-weight: 900;
+}
+.priseFirstBlock {
+  display: block;
+  float: left;
+  max-width: 50%;
+  min-width: 300px;
+  width: 100%;
+}
+.priseFirstBlock img{
+  float: left;
+}
+.zacerknuto{
+color: #c32528;
+display: block;
+font-size: 40px;
+font-weight: 600;
+margin: 0 70px 20px auto;
+text-align: center;
+text-decoration: line-through;
+}
+.BigZacerknuto {
+  font-size: 60px;
+  font-weight: 900;
+  margin-right: 40px;
+  text-align: center;
+}
+.month{
+display: block;
+text-align: center;
+font-size: 30px;
+}
+.priseA {
+background: #41bce5 none repeat scroll 0 0;
+display: block;
+width: 100%;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.priseB {
+  margin: 50px auto;
+  max-width: 900px;
+  min-width: 300px;
+}
+.priseSecondBlock {
+  margin-left: 50%;
+}
+.otnine {
+background: #ff0000 none repeat scroll 0 0;
+display: block;
+font-size: 25px;
+margin: 0 auto;
+padding: 10px 40px;
+text-align: center;
+width: 120px;
+}
+.priseSecondBlock ul{
+  font-size: 20px;
+margin: 10px auto;
+width: 250px;
+list-style: none;
+
+}
+.lowPrise {
+font-size: 30px;
+list-style: inside url("img/ok_li.png") disc;
+margin: 0 auto;
+max-width: 600px;
+min-width: 350px;
+padding-bottom: 20px;
+width: 100%;
+}
+
+.tcena {
+  font-size: 37px;
+  text-align: center;
+}
+
+.counter {
+  background: #fff none repeat scroll 0 0;
+  min-height: 500px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+.titleOfPostss,.titleOfPostsss {
+  margin: 40px;
+  padding-bottom: 20px;
+  color: #000;
+}
+.hundredResult {
+ // background: #fff url(http://kyivopt.com/wp-content/uploads/2015/06/landofart.ru-povar-v-shapke-1024x835.jpg) no-repeat fixed center center ;
+
+background: #1f4a65 none repeat scroll 0 0;
+display: block;
+height: 100%;
+margin-top: -135px;
+max-height: 400px;
+min-height: 150px;
+padding-top: 135px;
+}
+.diagrama {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 800px;
+  min-width: 250px;
+  width: 100%;
+}
+
+.contaktUs {
+background: #fff none repeat scroll 0 0;
+color: #11174e;
+height: 350px;
+margin-bottom: -30px;
+margin-top: -40px;
+padding-bottom: 25px;
+padding-top: 20px;
+}
+.beforPcont,.socialsM{
+  min-width: 300px;
+  max-width: 900px;
+  width: 100%;
+  min-height: 100px;
+  margin: 0 auto;
+}
+.socialsM{
+    max-width:320px;
+}
+.socialsM a{
+
+  display: block;
+  float:left;
+}
+.socialsM img{
+   width: 50px;
+   height: auto;
+}
+
+.beforPcont p{
+  float: left;
+  display: inline-block;
+  width: 50%;
+  font-size: 35px;
+  text-align: center;
+
+}
+
+.titleOfPostss{
+  color: #11174e;
+}
+
+ /*end ContetPOst*/
+
+.copyright{
+  display: block;
+  height: 100px;
+  width: 100%;
+  background: #50A81A;
+  padding-top: 1px;
+
+}
+
+.copyright p{
+  min-width: 250px;
+  max-width: 600px;
+  width: 100%;
+  height: 30px;
+  display: block;
+  margin: 40px auto;
+  text-align: center;
+}
+
+.logo{
+  margin: 10px auto;
+}
+.logo,.logo img{
+  min-width: 250px;
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+}
+.ContetPOst {
+  display: block;
+}
+.contentT{
+
+}
+
+footer{
+  display: none;
+  clear:both;
+
+height: 100px;
+width: 100%;
+
+}
+
+/*Paralax*/
+.no-parallax{
+    width: 100%;
+    min-height: 300px;
+}
+.parallax{
+    width: 100%;
+    min-height: 400px;
+}
+
+/*Paralax*/
+
+
+/*Media*/
+/* @media screen and (min-width:645px) and (max-width:980px) {
+    .plitka {
+     height: 800px !important;
+    }
+   }
+ @media screen and (min-width:620px) and (max-width:645px) {
+    .plitka {
+     height: 1000px !important;
+    }
+   }
+
+ @media screen and (max-width:620px) {
+    .plitka {
+     height: 1500px !important;
+    }
+   }
+*/
+@media screen and (min-width:645px) and (max-width:980px) {
+        .plitka {
+     min-height: 800px !important;
+    }
+
+}
+
+@media screen and (min-width:640px) and (max-width:745px) {
+        .plitka {
+    min-height: 1000px !important;
+    }
+   .priseB {
+
+    height: 510px;
+}
+}
+
+/*@media screen and (min-width:640px) and (max-width:745px) {
+        .plitka {
+    min-height: 1100px !important;
+    }
+
+}*/
+
+@media screen and (max-width:620px){
+        .plitka {
+     min-height: 1500px !important;
+    }
+
+}
+@media screen and (max-width:413px){
+        .priseFirstBlock{
+     max-width:100% !important;
+     float: none !important;
+    }
+    .priseSecondBlock{
+      margin-left: 0px !important;
+      margin-top: 30px;
+      padding-top: 20px;
+      border-top: 2px #ff0000 dashed;
+    }
+    .beforPcont p{
+      float: none;
+      width: 100%;
+    }
+    .contaktUs{
+      height: 480px;
+
+    }
+
+    .socialsM {
+    max-width: 320px;
+    margin: 20px auto;
+        }
+
+}
+
+/*Media*/

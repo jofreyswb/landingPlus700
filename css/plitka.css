@@ -1,0 +1,47 @@
+.plitka {
+display: block;
+margin: 0 auto;
+max-width: 1008px;
+min-width: 382px;
+width: 100%;
+min-height: 504px;
+max-height: 900px;
+}
+
+.paddingThree{
+  padding:3px;
+}
+
+.floatleft {
+float: left;
+}
+.twoRows{
+ width: 252px;
+}
+
+.twoRow{
+  width: 126px;
+}
+.youTube, .instagram, .odnoklasniki, .socials, .facebook, .twiter, .Gplus, .vk {
+  width: 120px;
+  height: 120px;
+}
+
+.stati,.forum{
+  width: 372px;
+  height: 246px;
+}
+
+.videoRolik, .photo {
+  width: 246px;
+  height: 246px;
+}
+
+.viber, .seoOptimiz {
+   width: 246px;
+  height: 120px;
+}
+
+.podpis {
+  display: none;
+}

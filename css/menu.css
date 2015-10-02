@@ -1,0 +1,68 @@
+ #firstMenu {
+        text-transform: uppercase;
+        text-align: center;
+        line-height: 30px;
+      //  background: #69c;
+        text-shadow:0 1px 1px black;
+  /*     -moz-border-radius: 5px;
+        -webkit-border-radius:5px;
+        border-radius:5px;*/
+        width: 100%;
+        font-size:20px;
+        height: auto;
+    }
+    #firstMenu ul {padding:0; margin:0;}
+    #firstMenu li{
+        display: inline;
+        list-style:none;
+        margin: 5px 5px;
+    }
+
+    #firstMenu li a {
+        padding:5px 5px;
+        color:#fff;
+        text-decoration: none;
+
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+
+    }
+
+    #firstMenu li a:hover{
+        background: #36c;
+        color: #ff0;
+
+        -webkit-transition-property: color, background;
+        -webkit-transition-duration: 0.5s, 0.5s;
+    }
+    .first_children_menu_top {
+        width:920px;
+    }
+    .fixed {
+        position:fixed;
+        top:-5px; left:0;
+        width:100%;
+        padding:10px 0;
+
+        height:  auto;
+
+        -moz-box-shadow: 5px 5px 20px #333;
+        -webkit-box-shadow: 5px 5px 20px #333;
+        box-shadow: 5px 5px 20px #333;
+    }
+    .transbg {
+        background-color: rgba(60, 130, 190, 0.7)!important;
+    }
+
+.UpButtonn {
+  display: none !important;
+}
+
+.UppBtn{
+   bottom: 20px;
+  position: fixed;
+  right: 8%;
+  width: 50px;
+  display: block;
+}
